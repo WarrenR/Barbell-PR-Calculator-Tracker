@@ -1,0 +1,8 @@
+{
+  "name": "Barbell Load & PR Tracker",
+  "description": "Mobile-first gym plate calculator, barbell loader, and personal record (PR) tracker with bodyweight percentage calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
